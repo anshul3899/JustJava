@@ -2,4 +2,14 @@
     <string name="app_name">Just Java</string>
     <string name="q">QUANTITY</string>
 <string name="quantity_value">0</string>
+    <string name="nameHint">Enter your Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+
+    <string name="orderSummary">order summary</string>
+    <string name="total_price">Total: $0</string>
+    <string name="order">order</string>
+    <string name="reset">reset</string>
+    <string name="name">Name: </string>
 </resources>

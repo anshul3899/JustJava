@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="q">मात्रा</string>
+    <string name="quantity_value">0</string>
+    <string name="nameHint">अपना नाम दर्ज करें</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="cream">फेटी हुई मलाई</string>
+
+
+    <string name="orderSummary">आदेश सारांश</string>
+    <string name="total_price">कुल: $0</string>
+    <string name="order">आदेश दें</string>
+    <string name="reset">रीसेट</string>
+</resources>
